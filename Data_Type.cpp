@@ -16,7 +16,7 @@ int dataTypes(string type) {
         return 1;
     }
 }
-
+// https://www.naukri.com/code360/problems/data-type_8357232?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
 int main() {
     string s; cin >> s;
 
